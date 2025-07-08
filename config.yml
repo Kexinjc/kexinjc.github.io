@@ -52,7 +52,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: kjiache@etsinf.upv.es
+          url: mailto:kjiache@etsinf.upv.es
         - name: LinkedIn
           url: https://www.linkedin.com/in/kexin-jiang-chen
         - name: Google Scholar
