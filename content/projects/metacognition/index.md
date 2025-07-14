@@ -1,6 +1,6 @@
 ---
 title: "Metacognition and critical thinking. Instance-level demand scales and annotation by LLMs" 
-date: 2025-07-01
+date: 2024-07-01
 tags: ["metacognition","critical thinking"]
 author: ["Kexin Jiang Chen", "José Hernández Orallo", "Fernando Martínez Plumed"]
 
