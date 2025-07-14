@@ -2,7 +2,7 @@
 title: "Metacognition and critical thinking. Instance-level demand scales and annotation by LLMs" 
 date: 2025-07-01
 tags: ["metacognition","critical thinking"]
-author: ["kexin Jiang Chen", "José Hernández Orallo", "Fernando Martínez Plumed"]
+author: ["Kexin Jiang Chen", "José Hernández Orallo", "Fernando Martínez Plumed"]
 
 ---
 
@@ -32,8 +32,7 @@ the potential of multi-dimensional scales in capturing the complex nature of met
 
 ---
 
-#### View
+#### Link to Materials
 
 + [Final Degree Thesis](final_degree_thesis.pdf)
 + [Labelling with Anchors](labelling_with_anchors.pdf)
-+ [TFG](tfg.pdf)
